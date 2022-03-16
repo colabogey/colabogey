@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @colabogey
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning
-**effective application of SOLID 
-**effective usage of modern standard C++ library components
-**design patterns
+**  effective application of SOLID 
+**  effective usage of modern standard C++ library components
+**  design patterns
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
