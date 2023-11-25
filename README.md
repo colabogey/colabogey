@@ -4,7 +4,7 @@
     - effective application of SOLID principles
     - effective usage of modern standard C++ library components
     - design patterns
-    - unit testing, mocking, coverasge
+    - unit testing, mocking, coverage
 - The 'waitables' project is my latest thought excursion.
 - 📫 How to reach me
      - colabogey@protonmail.com 
