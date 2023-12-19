@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @colabogey
-- 👀 I’m interested in software engineering
--  I’m continually learning/expanding
+- 👀 I’m interested in various aspects of software engineering
+-  I’m continually learning/expanding:
     - effective application of SOLID principles
     - effective usage of modern standard C++ library components
     - design patterns
     - unit testing, mocking, coverage
-- The 'waitables' project is my latest thought excursion.
+- The 'waitables' project is an example of one thought excursion.
 - 📫 How to reach me
      - colabogey@protonmail.com 
 
