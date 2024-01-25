@@ -5,7 +5,8 @@
     - effective usage of modern standard C++ library components
     - design patterns
     - unit testing, mocking, coverage
-- The 'waitables' project is an example of one thought excursion.
+- The 'waitables' repo is an example of one thought excursion.
+- The 'oracle' repo is an excursion into data structures and algorithms I find interesting.
 - 📫 How to reach me
      - colabogey@protonmail.com 
 
